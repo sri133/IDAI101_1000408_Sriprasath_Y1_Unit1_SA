@@ -4,6 +4,9 @@ Project Name (Dialogflow ES)
 
 School Campus Assistant
 Project ID: -1000408_SriPrasath_AIY1_FA
+Student name: Sri Prasath.P
+Student registration number: 1000408
+Course Name: Artificial Intelligence(AI): Real World Application and Implication
 CHATBOT LINK: https://sri133.github.io/IDAI101_1000408_Sriprasath_Y1_Unit1_SA/
 
 1. Purpose of Creation
