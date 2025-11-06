@@ -109,6 +109,52 @@ School Location: Provides the school address and opens Google Maps.
 
 Thank You: Responds warmly to appreciation or gratitude from users.
 
+YOU CAN ASK QUESTIONS LIKE: 
+   Where is the primary block?
+
+Can I know where the admin block is?
+
+Can I know where the admin block is?
+
+Where is the LKG class?
+
+Science block location pls
+
+Where is the Canteen located?
+
+What are the food items available in the canteen?
+
+I need school contact number
+
+Where is Humanities department?
+
+Is there any events today?
+
+Emergency number pls
+
+Can I know school timing?
+
+Is there any hostel option?
+
+What are the outdoor games available?
+
+Pls tell about your school
+
+I want to know the transport fees structure
+
+Indoor games list pls
+
+Provide the ECA details pls
+
+What are the musical classes available?
+
+Tell me about yourself
+
+Do classes have ac?
+
+Can I get the school location?
+
+You're amazing bro, thank you
 6. Entities Used
 
 The chatbot uses four types of entities to identify user keywords and respond accurately.
